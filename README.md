@@ -1,5 +1,2 @@
 # repo
-test  
-hoge brabrabra .....  
-HI !!  
-test commit
+read me text here.
